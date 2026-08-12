@@ -16,6 +16,8 @@ Claude cannot understand why GitHub is unable to find Issues.  Adding a pull req
 Vince offers to lead; see whether it would be good to review
 [Sean Davis' overview talk](https://talks.seandavis.net/2026-07-31-harvard-agents/#/title-slide).
 
+Detailed exercise proposal and workshop roadmap: [agentic_coding_exercises.md](agentic_coding_exercises.md).
+
 For attendees who have not used a coding agent, it may be desirable to acquire the
 antigravity app and authenticate to the free tier.
 
