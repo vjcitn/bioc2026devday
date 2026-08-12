@@ -7,12 +7,23 @@ would like to lead or participate in
 
 Alex Mahmoud will lead
 
+### AI-assisted methods for data curation; "AI ready data"
+
+?
+
 ### Introducing agentic coding with application to Bioconductor
 
 Vince offers to lead; see whether it would be good to review
 [Sean Davis' overview talk](https://talks.seandavis.net/2026-07-31-harvard-agents/#/title-slide).
 
+For attendees who have not used a coding agent, it may be desirable to acquire the
+antigravity app and authenticate to the free tier.
+
 ### Object-oriented programming strategies with S7
 
 Mike Lawrence will discuss
+
+### GPUs and software from NVIDIA with applications in genomic data science
+
+Ben Busby, Nick Cooley?
 
