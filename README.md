@@ -9,7 +9,7 @@ Alex Mahmoud will lead
 
 ### AI-assisted methods for data curation; "AI ready data"
 
-?
+Claude cannot understand why GitHub is unable to find Issues.  Adding a pull request to provoke both
 
 ### Introducing agentic coding with application to Bioconductor
 
